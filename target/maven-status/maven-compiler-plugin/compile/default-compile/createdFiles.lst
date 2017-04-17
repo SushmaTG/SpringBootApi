@@ -1,0 +1,8 @@
+com/architectblogs/util/CustomErrorType.class
+com/architectblogs/App.class
+com/architectblogs/service/StorageService.class
+com/architectblogs/model/File.class
+com/architectblogs/repository/FileRepository.class
+com/architectblogs/configuration/PersistenceConfiguration.class
+com/architectblogs/controller/RestAPIController.class
+com/architectblogs/service/StorageServiceImpl.class
